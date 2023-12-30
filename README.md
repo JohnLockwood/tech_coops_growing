@@ -10,4 +10,11 @@ Snowdrift.coop is a *multi-stakeholder* (aka *solidarity*) co-op web platform be
 
 The purpose of [Webarchitects Co-operative](https://www.webarchitects.coop/) is to *"To enable the provision of internet based services for socially responsible groups and individuals, using free open source software wherever possible, in a manner that aims to minimise fossil fuel usage and ecological impacts and which also provides sustainable employment"*. Webarchitects is a multi-stakeholder co-operative which clients, partners and investors can [join](https://www.webarchitects.coop/join), we are not currently in a position to recruit any additional worker members. Webarchitects have been developing, maintaining and hosting servers and websites, coding and customising content management systems and other FLOSS web applications running on GNU/Linux servers since 1998. In July 2011 we re-established ourselves as Webarch Co-operative Limited in order to formalise our co-operative ethics and working practices. Webarchitects has a policy that *"All software artefacts that the co-operative produces to be licensed under a FSF approved license"*. In addition to providing virtual servers and shared hosting to clients we also provide sysadmin services to clients and we are [seeking more clients](https://docs.webarch.net/wiki/Clients_wanted). If you would like to [contact us](https://www.webarchitects.coop/contact) you can send an email to [info@webarchitects.coop](mailto:info@webarchitects.coop), if you would like a chat we can be found in [#webarch on irc.freenode.net](https://webchat.freenode.net/?channels=#webarch).
 
- 
+## [WTF eG](https://wtf-eg.de/en/)
+
+WTF Kooperative eG (Werkkooperative der Technikfreund*innen) was founded in December 2020 and brings valuable expert know-how most diverse disciplines of information technology to the table.
+From the start, more than 150 people found each other and worked to successful founding of the cooperative.
+
+A company that belongs to all of us, in which each of us has a voice and the right to have a say.
+We see ourselves as a platform for hackers, where with like-minded people economic projects become possible that would not exist otherwise.
+We promote and manage the services of our members collectively as a cooperative.
